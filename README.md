@@ -4,7 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Https//:instagram.com/luish_gomes_)
 
 ![LuisHGomes GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHGomes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHGomes&layout=compact&theme=dark)
 
 ## Tecnologias do meu dia á dia
 
